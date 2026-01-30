@@ -9,3 +9,7 @@ test_heatshrink_static
 *.dSYM
 *.exe
 benchmark_out/
+
+# macOS system files
+.DS_Store
+._*
